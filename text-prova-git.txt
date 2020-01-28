@@ -1,1 +1,2 @@
 Aquest es un canvi des de master
+Primer canvi amp branch1
